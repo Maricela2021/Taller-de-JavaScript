@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#numero{
+    font-size: 40px;
+    margin: 20px;
+}
+
+button{
+    padding: 15px 25px;
+    font-size: 20px;
+    margin: 5px;
+}
